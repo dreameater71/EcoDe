@@ -14,4 +14,3 @@ Pillow
 numpy==1.26.4
 ray[tune]
 fsspec==2024.6.0
-ray==2.40.0
