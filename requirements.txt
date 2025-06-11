@@ -1,0 +1,16 @@
+streamlit
+flaml
+xgboost
+scikit-learn==1.2.2
+lightgbm
+catboost
+pandas
+joblib
+openai
+plotly
+folium
+streamlit-folium
+Pillow
+numpy
+ray[tune]
+fsspec
